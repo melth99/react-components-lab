@@ -39,13 +39,8 @@ export const WeatherForecasts = [
     time: 'Night',
   },
 ];
-/*
-export default function Days() {
-  const WeatherData = WeatherForecasts.map(day => <li>{day}</li>)
-  return <ul> {forecasts} </ul>
 
-}
-*/
+
 // src/App.jsx
 
 
